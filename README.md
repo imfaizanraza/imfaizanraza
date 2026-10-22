@@ -1,5 +1,8 @@
 # 🚀 Faizan Raza
 
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Faizan+Raza;Building+scalable+software;Open+source+enthusiast" alt="Typing SVG" />
+</h1>
 > Full-Stack & Cloud Developer | Open Source Contributor
 
 ### 🛠️ Tech & Tools
