@@ -1,6 +1,5 @@
 # 🚀 Faizan Raza
-# ⚡ `SYSTEM_STATUS: ONLINE`
-> Building solutions, breaking constraints, and shipping code.
+
 > Full-Stack & Cloud Developer | Open Source Contributor
 
 ### 🛠️ Tech & Tools
