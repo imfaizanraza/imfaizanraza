@@ -71,23 +71,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="4">
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=imfaizanraza&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=imfaizanraza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 ---
 
 ### 🐍 Contribution Snake
