@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/imfaizanraza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizan+Raza;Full-Stack+%26+Cloud+Developer;Open+Source+Contributor;Turning+caffeine+into+scalable+systems;Building+modern+web+apps+%26+cloud+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BD34FE&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Faizan+Raza+%F0%9F%91%8B;Cloud+%26+Full-Stack+Developer;Breaking+code+at+5+PM%2C+fixing+it+at+3+AM;Building+scalable+things+(hopefully)+%F0%9F%94%A5;Pushing+straight+to+main...;Git+blame+says+it+wasn't+me+%F0%9F%98%85)](https://git.io/typing-svg" />
   </a>
 </p>
 
