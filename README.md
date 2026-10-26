@@ -17,7 +17,7 @@
 </div>
 
 
-###  Tech Stack & Tooling
+### 💻 Tech Stack & Tooling
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10" width="100%">
