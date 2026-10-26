@@ -13,7 +13,11 @@ on:
     branches:
     - main
 
+permissions:
+  contents: write
+
 jobs:
+
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
