@@ -63,16 +63,6 @@
 
 ---
 
-### 🌐 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imfaizanraza/imfaizanraza/main/profile-3d-contrib/profile-night-green.svg" alt="Faizan's 3D Contribution Graph" width="100%" />
-</div>
-
-<br>
-
----
-
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
