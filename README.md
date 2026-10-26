@@ -16,27 +16,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="left">
-        <ul>
-          <li>🔭 Passionate about building robust web applications and scalable cloud architectures.</li>
-          <li>🛠️ Core stack spans <b>React</b>, <b>Node.js</b>, <b>Python</b>, <b>Google Cloud</b>, and <b>FastAPI</b>.</li>
-          <li>🤝 Actively contributing to <b>Open Source</b> projects and developer communities.</li>
-          <li>💬 Ask me about Full-Stack Engineering, Cloud Native Systems, and REST/GraphQL APIs.</li>
-          <li>⚡ <i>Fun fact:</i> I debug best in dark mode with lo-fi beats playing 🎧</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
 
 ### 💻 Tech Stack & Tooling
 
