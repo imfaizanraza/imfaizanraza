@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./IMG_0887.jpeg" width="100%" alt="Faizan Raza Banner" />
+  <img src="./IMG_0889.jpeg" width="100%" alt="Faizan Raza Banner" />
 </p>
 
 <p align="center">
