@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  ⚡ Designed & Maintained by <a href="https://github.com/imfaizanraza"><b>Faizan Raza(@imfaizanraza)</b></a>
+  ⚡ Designed & Maintained by <a href="https://github.com/imfaizanraza"><b>Faizan(@imfaizanraza)</b></a>
 </div>
